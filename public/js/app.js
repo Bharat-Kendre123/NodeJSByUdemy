@@ -1,4 +1,3 @@
-console.log('Client side JS');
 
 
 const weather = document.querySelector('form');

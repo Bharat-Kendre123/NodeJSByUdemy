@@ -9,6 +9,7 @@ const message_2 = document.querySelector('#message-2');
 weather.addEventListener('submit', ( event) =>{
     event.preventDefault();
 
+    
     const tempAdd = address.value;
 
     if(!tempAdd){
